@@ -72,6 +72,10 @@ input{
     color: white;
 }
 
+.top a:hover {
+    color: rgb(84, 87, 255);
+}
+
 .section {
     font-size: 14px;
     background: white;
@@ -97,6 +101,10 @@ input{
     color: #f4cc47;
 }
 
+.rubrika a:hover{
+    color: #fff4a5;
+}
+
 .poisk{
     background: linear-gradient(to top, #000 70%, #838383 90%, #000 103%);
     border-top: solid 5px #d1511e;
@@ -116,6 +124,10 @@ input{
 .poisk li a{
     color: #aeaeae;
     font-size: 12px;
+}
+
+.poisk li a:hover{
+    color: #ffffff;
 }
 
 .poisk li h4{
